@@ -4,13 +4,13 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: rgb(217, 234, 240);
+    background-color: rgb(136, 134, 233);
     color: #555;
 }
 header {
     background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
-    color: white;
-    padding: 25px;
+    color: rgb(75, 31, 75);
+    padding: 20px;
 }
 header h1 {
     margin: 0;
@@ -26,13 +26,13 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    color: hotpink;
+    color: rgb(122, 61, 91);
     background-color: black;
     padding: 3px;
 }
 
 .code-ninja-style {
-    color: blue;
+    color: rgb(0, 195, 255);
     background-color: lightblue;
     padding: 3px;
 }
